@@ -1,0 +1,6 @@
+{
+  "name": "MegaDealz India",
+  "description": "India's premier online beauty, makeup kits & mega deal shopping destination with massive discounts and authentic cosmetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
